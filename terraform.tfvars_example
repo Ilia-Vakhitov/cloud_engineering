@@ -1,0 +1,4 @@
+vpc_id    = "vpc-..."
+subnet_id = "subnet-..."
+my_ip     = "some.ip"
+key_name  = "key-name"
